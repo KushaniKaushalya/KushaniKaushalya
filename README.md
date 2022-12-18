@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native, Svelte ,Flutter**
 
-- 💬 Ask me about **Java, Spring, SQL, HTML,CSS, JavaScript, PHP,C ,bootstrap**
+- 💬 Ask me about **Java, Spring, SQL, HTML,CSS, JavaScript, PHP, C **
 
 - 📫 How to reach me **kushanikaushalya456@gmail.com**
 
