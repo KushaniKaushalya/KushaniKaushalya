@@ -6,8 +6,6 @@
 
 - ⚡A competitve **Java programmer**
 
-- 💬I’m a **talented, ambitious and hardworking individual**
-
 - 🌱 I’m currently learning **ReactJs, Svelte ,Flutter**
 
 - 📫 How to reach me **kushanikaushalya456@gmail.com**
