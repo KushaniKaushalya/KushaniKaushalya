@@ -9,7 +9,7 @@
 - 📫 How to reach me **kushanikaushalya456@gmail.com**
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kushanikaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="kushanikaushalya" /> </p>
+<img src="https://komarev.com/ghpvc/?username=kushanikaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="kushanikaushalya" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushanikaushalya&show_icons=true&theme=radical)
 <br><br>
