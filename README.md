@@ -4,7 +4,7 @@
 
 - ⚡A competitve **Java programmer**
 
-- 🌱 I’m currently learning **ReactJs, Svelte ,Flutter**
+- 🌱 I’m currently learning **Svelte ,Flutter**
 
 - 📫 How to reach me **kushanikaushalya456@gmail.com**
 <br>
