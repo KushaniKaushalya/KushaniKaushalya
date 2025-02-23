@@ -3,14 +3,14 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kushanikaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="kushanikaushalya" /></p>
 
-## 🚀 About Me
-I'm a **Software Engineer** and passionate problem-solver who loves working with **data, AI, and algorithms**. With a **First-Class Honors degree (GPA: 3.87)** in **Computer Science**, I enjoy tackling challenges in **machine learning, full-stack development, and Java**. 🚀
+## 🚀 About Me  
+I'm a **Software Engineer** and a passionate problem-solver who thrives in **Enterprise Application Development**. With a **First-Class Honors degree (GPA: 3.87)** in **BSc. (Hons) Computer Science**, I specialize in **full-stack development** with a strong focus on **Java**. 🚀  
 
-## 🔥 What I Do
-- 💻 **Software Engineering** - Developing full-stack applications with **Java, Python, and JavaScript**.
-- 📊 **Data Science & AI** - Applying AI and ML for innovative solutions.
-- 🎓 **Mathematics & Research** - Former **Secretary** of the NSBM Mathematics and Statistics Circle.
-- 🏆 **Competitive Programming** - Passionate about coding challenges and hackathons.
+## 🔥 What I Do  
+- 💻 **Software Engineering** – Building full-stack applications using **Java, Spring Boot, and JavaScript**.  
+- 📊 **Data Science & AI** – Leveraging AI and ML to develop innovative solutions.  
+- 🎓 **Mathematics & Research** – Former **Secretary** of the NSBM Mathematics and Statistics Circle.  
+- 🏆 **Competitive Programming** – Enthusiastic about coding challenges and hackathons.  
 
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
