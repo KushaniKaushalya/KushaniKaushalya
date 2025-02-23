@@ -21,7 +21,7 @@ I'm a **Software Engineer** and passionate problem-solver who loves working with
 - 🎓 Enhancing expertise in **Big Data & Cloud Computing**.
 
 ## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaushalya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kushani-kaushalya-837bb9194/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kushani-kaushalya-837bb9194/)
 [![GitHub](https://img.shields.io/badge/GitHub-Kaushalya-black?style=for-the-badge&logo=github)](https://github.com/KushaniKaushalya)
 [![Email](https://img.shields.io/badge/Email-Kaushalya-Red?style=for-the-badge&logo=gmail)](mailto:kushanikaushalya456@gmail.com)
 
