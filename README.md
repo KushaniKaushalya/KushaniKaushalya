@@ -15,15 +15,15 @@ I'm a **Software Engineer** and passionate problem-solver who loves working with
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🌱 Learning & Growth
 - 📖 Deep diving into **Java Spring Boot**.
 - 🎓 Enhancing expertise in **Big Data & Cloud Computing**.
-
+- 💻 Contributing to **Hacktoberfest**!
 <br><br>
 [![An image of @kushanikaushalya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kushanikaushalya)](https://holopin.io/@kushanikaushalya)
 <br><br>
