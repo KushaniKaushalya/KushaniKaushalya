@@ -1,4 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Kushani Kaushalya! </h1>
+<h3 align="center">A competitve **Java programmer | Full-Stack Developer</h3>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kushanikaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="kushanikaushalya" /></p>
 
 ## 🚀 About Me
 I'm a **Software Engineer** and passionate problem-solver who loves working with **data, AI, and algorithms**. With a **First-Class Honors degree (GPA: 3.87)** in **Computer Science**, I enjoy tackling challenges in **machine learning, full-stack development, and Java**. 🚀
@@ -10,7 +13,6 @@ I'm a **Software Engineer** and passionate problem-solver who loves working with
 - 🏆 **Competitive Programming** - Passionate about coding challenges and hackathons.
 
 ## 🛠 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,6 +23,10 @@ I'm a **Software Engineer** and passionate problem-solver who loves working with
 ## 🌱 Learning & Growth
 - 📖 Deep diving into **Java Spring Boot**.
 - 🎓 Enhancing expertise in **Big Data & Cloud Computing**.
+
+<br><br>
+[![An image of @kushanikaushalya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kushanikaushalya)](https://holopin.io/@kushanikaushalya)
+<br><br>
 
 ## 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kushani-kaushalya-837bb9194/)
