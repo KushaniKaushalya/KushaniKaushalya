@@ -1,4 +1,4 @@
-<center> # Hi 👋, I'm Kushani Kaushalya! </center>
+# <center> Hi 👋, I'm Kushani Kaushalya! </center>
 
 ## 🚀 About Me
 I'm a **Software Engineer** and passionate problem-solver who loves working with **data, AI, and algorithms**. With a **First-Class Honors degree (GPA: 3.87)** in **Computer Science**, I enjoy tackling challenges in **machine learning, full-stack development, and mathematics**. 🚀📊
