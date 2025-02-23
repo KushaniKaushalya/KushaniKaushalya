@@ -30,6 +30,7 @@ I'm a **Software Engineer** and a passionate problem-solver who thrives in **Ent
 
 ## 📬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kushani-kaushalya-837bb9194/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushani-kaushalya-837bb9194/)
 [![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:kushanikaushalya456@gmail.com)
 
 📊 *"Solving Problems, One Algorithm at a Time."* 🚀
