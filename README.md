@@ -11,7 +11,6 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kushanikaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="kushanikaushalya" /></p>
 
-[//]:![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushanikaushalya&show_icons=true&theme=radical)
 <br><br>
 [![An image of @kushanikaushalya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kushanikaushalya)](https://holopin.io/@kushanikaushalya)
 <br><br>
