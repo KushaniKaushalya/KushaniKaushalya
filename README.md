@@ -1,4 +1,4 @@
-<center> <h1> Hi 👋, I'm Kushani Kaushalya! </h1> </center>
+<h1 align="center"> Hi 👋, I'm Kushani Kaushalya! </h1>
 
 ## 🚀 About Me
 I'm a **Software Engineer** and passionate problem-solver who loves working with **data, AI, and algorithms**. With a **First-Class Honors degree (GPA: 3.87)** in **Computer Science**, I enjoy tackling challenges in **machine learning, full-stack development, and mathematics**. 🚀📊
@@ -29,7 +29,7 @@ I'm a **Software Engineer** and passionate problem-solver who loves working with
 - 🏆 Preparing for **Advanced Certifications in AI & Data Science**.
 
 ## 📬 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaushalya-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Kaushalya-black?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kaushalya-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kushani-kaushalya-837bb9194/)
+[![GitHub](https://img.shields.io/badge/GitHub-Kaushalya-black?style=for-the-badge&logo=github)](https://github.com/KushaniKaushalya)
 
 📊 *"Solving Problems, One Algorithm at a Time."* 🚀
