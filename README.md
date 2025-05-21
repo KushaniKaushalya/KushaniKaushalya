@@ -4,10 +4,10 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kushanikaushalya&label=Profile%20views&color=0e75b6&style=flat" alt="kushanikaushalya" /></p>
 
 ## 🚀 About Me  
-I'm a **Software Engineer** and a passionate problem-solver who thrives in **Enterprise Application Development**. With a **First-Class Honors degree (GPA: 3.87)** in **BSc. (Hons) Computer Science**, I specialize in **full-stack development** with a strong focus on **Java**. 🚀  
+I'm a **Software Engineer** and a passionate problem-solver who thrives in **Enterprise Application Development**. I graduated in 2024 with a **First-Class Honours degree (GPA: 3.87)** in **BSc. (Hons) Computer Science**. I have earned recognition such as the **Virtusa Gold Award** for the **best overall performance** as **Batch Top** in the Faculty of Computing, and the **Best Performance Award** for **Computer Science** from NSBM. I specialize in **full-stack development**, with a strong focus on **Java**. 🚀
 
 ## 🔥 What I Do  
-- 💻 **Software Engineering** – Building full-stack applications using **Java, Spring Boot, and JavaScript**.  
+- 💻 **Software Engineering** – Building full-stack applications using **Java, Spring Boot, VueJs, React and JavaScript**.  
 - 📊 **Data Science & AI** – Leveraging AI and ML to develop innovative solutions.  
 - 🎓 **Mathematics & Research** – Former **Secretary** of the NSBM Mathematics and Statistics Circle.  
 - 🏆 **Competitive Programming** – Enthusiastic about coding challenges and hackathons.  
